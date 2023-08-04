@@ -10,5 +10,7 @@ public class App {
        App aplicacao = new App();
        Pessoa pl = new Pessoa("Zezinho");
        Piloto pil = new Piloto("Huquinho");
+       Carro car = new Carro("Kombi");
+       Moto mot = new Moto("Vespa");
     }
 }
